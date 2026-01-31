@@ -9,7 +9,9 @@
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   
-  [🎯 Live Demo](#) | [📖 How to Play](#how-to-play) | [🚀 Quick Start](#installation)
+  [![Live Demo](https://img.shields.io/badge/🎯_Live_Demo-Play_Now-success?style=for-the-badge&logoColor=white)](https://priyanshu-raj26.github.io/Simon-says-web/)
+  [![Documentation](https://img.shields.io/badge/📖_How_to_Play-Read_Guide-blue?style=for-the-badge)](#how-to-play)
+  [![Quick Start](https://img.shields.io/badge/🚀_Quick_Start-Get_Started-orange?style=for-the-badge)](#installation)
 
 <br>
 <br>
@@ -100,33 +102,28 @@ Test your memory, concentration, and pattern recognition skills as you try to be
 
 ## 🚀 Installation
 
-### Option 1: Clone the Repository
+### Option 1: Play Online (No Installation Required!) 🌐
+**Just want to play?** Visit the live demo:
+
+🎮 **[Play Simon Says Game Now!](https://priyanshu-raj26.github.io/Simon-says-web/)**
+
+### Option 2: Clone the Repository
 ```bash
 # Clone this repository
 git clone https://github.com/priyanshu-Raj26/Simon-says-web.git
 
 # Navigate to the project directory
-cd simon-says-game
+cd Simon-says-web
 
 # Open index.html in your browser
-# Or use a local server 
+# Or use a local server
 ```
 
-### Option 2: Download ZIP
+### Option 3: Download ZIP
 1. Click the green **Code** button above
 2. Select **Download ZIP**
 3. Extract the ZIP file
 4. Open `index.html` in your web browser
-
-### Option 3: Use Live Server 
-```bash
-# If you have VS Code with Live Server extension
-# Right-click on index.html and select "Open with Live Server"
-
-# Or use Python's built-in server
-python -m http.server 8000
-# Then open http://localhost:8000 in your browser
-```
 
 ---
 
@@ -171,6 +168,7 @@ simon-says-game/
 └── README.md           # Project documentation
 ```
 
+---
 
 ## 🤝 Contributing
 
@@ -188,20 +186,24 @@ Contributions are welcome! Here's how you can help:
 - 🌙 Dark/Light theme switcher
 - 📊 Leaderboard system with local storage
 - 🎮 Multiple difficulty modes (Easy, Medium, Hard)
+- 🌍 Multi-language support
+- 🎨 Custom color themes
+- ⏱️ Speed mode with time challenges
 
 ---
 
 ## 🐛 Known Issues
 
-Currently, there are no known issues. If you find a bug, please [open an issue](https://github.com/yourusername/simon-says-game/issues).
+Currently, there are no known issues. If you find a bug, please [open an issue](https://github.com/priyanshu-Raj26/Simon-says-web/issues).
 
+---
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Priyanshu Raj**
 
-- GitHub: <a href="https://github.com/priyanshu-Raj26">@&lt;priyanshu-Raj26&gt;</a><br>
-- LinkedIn: <a href="https://www.linkedin.com/in/priyanshu~raj/">My Linkedin</a>
+- GitHub: <a href="https://github.com/priyanshu-Raj26">@priyanshu-Raj26</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/priyanshu~raj/">My LinkedIn</a>
 
 ---
 
